@@ -7,6 +7,6 @@ public class A {
 public void m1() {
 	
 	
-	Sytem.out.println("hiii...");
+	System.out.println("hiii...");
 }
 }
